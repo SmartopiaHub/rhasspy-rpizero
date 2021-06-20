@@ -14,7 +14,7 @@
 # -------------------
 
 # change the following to your setting
-site_id = 'rpizero'
+site_id = 'rpizero_study'
 asr_url = "http://192.168.1.103:12101/api/speech-to-text"
 nlu_url = "http://192.168.1.103:12101/api/text-to-intent"
 wake_response_wav_file = "/home/pi/beep_ask.wav" 
